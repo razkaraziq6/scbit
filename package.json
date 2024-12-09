@@ -1,0 +1,10 @@
+{
+  "scripts": {
+  "start": "node index.js"
+}
+"dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
